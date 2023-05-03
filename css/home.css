@@ -22,7 +22,7 @@ body {
     
     margin: 0;
     padding: 0;
-    background-image: url(/img/fondo.png);
+    background-image: url("/Proyectos/clon-google/img/fondo.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -141,7 +141,7 @@ a:link, a:visited {
 
 
 .bus{
-    background-image: url(/img/lupa.png);
+    background-image: url("/Proyectos/clon-google/img/lupa.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
@@ -152,7 +152,7 @@ a:link, a:visited {
 }
 
 .sonido{
-    background-image: url(/img/micro.png);
+    background-image: url("/Proyectos/clon-google/img/micro.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
